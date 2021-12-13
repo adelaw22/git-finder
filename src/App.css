@@ -1,0 +1,48 @@
+
+*{
+   box-sizing: border-box;
+   margin:0;
+   padding:0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size:1rem;
+    background-color: #fff;
+}
+
+.navbar{
+    width:100%;
+    height:auto;
+    color: #fff;
+    background-color: #0e508d;
+    padding: 16px 72px;
+}
+
+.navbar i{
+    margin:0px 10px 0px 0px;
+}
+.container{
+    padding:30px 72px;
+}
+.card{
+    width: 100%;
+    height: auto;
+    border: 1px solid #53535354;
+    text-align: center;
+    padding: 20px;
+    margin-top:20px;
+}
+
+.round-img{
+    border-radius: 50%;
+    width: 60px;
+}
+
+.btn{
+    text-decoration: none;
+    color: #fff;
+    background-color: #0e508d;
+    padding:5px 16px;
+    border-radius: 5px;
+}
